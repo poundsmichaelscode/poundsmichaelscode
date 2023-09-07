@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poundsmichaelscode
+- 👋 Hi, I’m Olayenikan Michael
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Software Engenering/Development
 - 💞️ I’m looking to collaborate on my projects and work
