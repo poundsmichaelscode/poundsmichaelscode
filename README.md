@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olayenikan Michael
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning Software Engineering/Development
 - 💞️ I’m looking to collaborate on my projects and work
 - https://poundsmichaels.com/
