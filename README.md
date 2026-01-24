@@ -111,11 +111,3 @@
 <img src="https://raw.githubusercontent.com/poundsmichaelscode/poundsmichaelscode/output/snake.svg" alt="Snake animation" />
 
 ###
-###
-- https://poundsmichaels.com/
-- 📫 How to reach me: michealolayenikan@gmail.com
-
-<!---
-poundsmichaelscode/poundsmichaelscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
