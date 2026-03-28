@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Olayenikan Michael<br><br>💻 Software Engineer with years of experience building scalable web applications and APIs.<br><br>Tech: JavaScript, TypeScript, React, Node.js, Python (Django/FastAPI), SQL/NoSQL, <br>Focus: Full-Stack Development, Secure & Clean Code<br><br>📫 Let’s connect: GitHub • LinkedIn • Portfolio</h2>
+<h2 align="left">👋 Hi, I’m Olayenikan Michael<br><br>💻 Software Engineer with years of experience building scalable web applications and APIs.<br><br>Tech: JavaScript, TypeScript, React, Node.js, Python (Django/FastAPI), SQL/NoSQL, Cybersecurity and Networking <br>Focus: Full-Stack Development, Secure & Clean Code<br><br>📫 Let’s connect: GitHub • LinkedIn • Portfolio</h2>
 
 ###
 
