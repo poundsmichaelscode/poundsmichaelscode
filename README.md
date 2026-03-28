@@ -70,11 +70,19 @@ Focused on clean code, security, and user experience.
 ---
 
 ### 🧠 What I Build
-- 🏡 Real Estate Platforms (Listings, Booking Systems)
-- 🛒 E-commerce Applications
-- 📊 Admin Dashboards
-- 🌐 Business & Portfolio Websites
-- ⚡ High-converting Landing Pages
+- 🏡### 🧠 What I Build
+
+- 🏢 **Enterprise Web Applications** – Scalable, maintainable systems with modern architectures  
+- 🌐 **Full-Stack Web Platforms** – End-to-end applications using React, Node.js & Python  
+- 📱 **Mobile Applications** – Cross-platform apps using React Native  
+- 🏡 **Real Estate Platforms** – Property listing systems, booking flows, and dashboards  
+- 🛒 **E-commerce Solutions** – Payment integration, product management, and user flows  
+- 📊 **Admin Dashboards & Analytics Systems** – Data visualization and business intelligence tools  
+- 🔐 **Secure APIs & Backend Services** – RESTful & scalable APIs with authentication & security best practices  
+- ⚡ **High-Converting Landing Pages** – Optimized for performance, SEO, and conversions  
+- 🎨 **UI/UX Implementations** – Pixel-perfect designs from Figma to production-ready interfaces  
+- 🔄 **Automation Tools & Scripts** – Workflow automation and efficiency tools for businesses  
+- ☁️ **Cloud-Ready Applications** – Deployment-ready apps using Docker & modern cloud platforms  
 
 ---
 
