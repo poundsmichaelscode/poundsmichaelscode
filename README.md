@@ -10,7 +10,7 @@ Focused on clean code, security, and user experience.
 
 ### 🚀 About Me
 - 💻 Full-Stack Developer (Frontend + Backend)
-- 🌍 Based in Nigeria
+- 🌍 From Dev World
 - 🧠 Strong focus on **scalable architecture & performance optimization**
 - 🔐 Background in **Cybersecurity & Networking**
 - 🏗️ Building real-world products (Real Estate Platforms, E-commerce, Dashboards)
