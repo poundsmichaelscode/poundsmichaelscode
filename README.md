@@ -149,7 +149,31 @@ A production-oriented collaboration MVP for teams, workspaces, real-time communi
 
 ---
 
-### 4. Software Engineering Portfolio
+
+
+---
+
+### 4. TradeMind — Smart Trading Journal & Analytics Platform
+
+A production-oriented trading journal MVP built for traders to track performance, analyze habits, and improve decision-making with data-driven insights.
+
+**Tech Stack:** Next.js, TypeScript, Express.js, MongoDB, JWT, Chart.js, Docker
+
+- Secure JWT authentication system  
+- Trade journaling with detailed entry logs  
+- Performance analytics dashboard  
+- Win/loss ratio and risk management tracking  
+- Strategy notes and psychology reflection system  
+- REST API architecture with backend integration  
+- Docker, Render, and Vercel deployment setup  
+
+**Repository:** [github.com/poundsmichaelscode/Trade-Mind](https://github.com/poundsmichaelscode/Trade-Mind)  
+**Live Demo:** [trade-mind-web.vercel.app](https://trade-mind-web.vercel.app)
+---
+
+
+
+### 5. Software Engineering Portfolio
 
 A personal developer portfolio built to present my skills, projects, experience, and professional brand as a software engineer.
 
