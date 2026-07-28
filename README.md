@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olayenikan Michael</h1>
 
-<h3 align="center">Full-Stack Software Engineer | Cloud & DevOps Learner | Frontend Developer | Backend Developer</h3>
+<h3 align="center">Full-Stack Software Engineer | Cloud & DevOps | Frontend Developer | Backend Developer</h3>
 
 <p align="center">
 I build scalable, secure, and user-friendly web applications using modern frontend, backend, cloud, and DevOps technologies.
