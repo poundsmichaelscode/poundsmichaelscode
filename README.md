@@ -88,7 +88,7 @@ A modern property management SaaS MVP built to help landlords, tenants, and prop
 - Backend-ready architecture
 
 **Repository:** [github.com/poundsmichaelscode/Habita](https://github.com/poundsmichaelscode/Habita)  
-**Live Demo:** [habita-phi.vercel.app](https://habita-phi.vercel.app/)
+**Live:** [habita-phi.vercel.app](https://habita-phi.vercel.app/)
 
 ---
 
@@ -106,7 +106,7 @@ A cybersecurity monitoring dashboard designed for real-time threat visibility, s
 - Enterprise-style dashboard UI
 
 **Repository:** [github.com/poundsmichaelscode/Alat_Defence-Threat_detection-Dashbord](https://github.com/poundsmichaelscode/Alat_Defence-Threat_detection-Dashbord)  
-**Live Demo:** [alat-defence-threat-detection-dashb.vercel.app](https://alat-defence-threat-detection-dashb.vercel.app/)
+**Live:** [alat-defence-threat-detection-dashb.vercel.app](https://alat-defence-threat-detection-dashb.vercel.app/)
 
 ---
 
@@ -124,7 +124,7 @@ A production-oriented collaboration MVP for teams, workspaces, real-time communi
 - Docker, Render, and Vercel deployment setup
 
 **Repository:** [github.com/poundsmichaelscode/Collab-space](https://github.com/poundsmichaelscode/Collab-space)  
-**Live Demo:** [collab-space-web-vql4.vercel.app](https://collab-space-web-vql4.vercel.app/)
+**Live:** [collab-space-web-vql4.vercel.app](https://collab-space-web-vql4.vercel.app/)
 
 ---
 
@@ -160,15 +160,15 @@ A personal developer portfolio built to present my skills, projects, experience,
 - Clean developer branding
 
 **Repository:** [github.com/poundsmichaelscode/Olayenikan-Michael-Software_Engineering-Portfolio](https://github.com/poundsmichaelscode/Olayenikan-Michael-Software_Engineering-Portfolio)  
-**Live Demo:** [olayenikan-michael-software-enginee.vercel.app](https://olayenikan-michael-software-enginee.vercel.app/)
+**Live:** [olayenikan-michael-software-enginee.vercel.app](https://olayenikan-michael-software-enginee.vercel.app/)
 
 ---
 
-## DevOps & Cloud Learning Path
+## DevOps & Cloud 
 
-I am currently strengthening my DevOps and cloud engineering skills by learning how to deploy, monitor, secure, and scale full-stack applications.
+ DevOps and cloud engineering,deploy, monitor, secure, and scale full-stack applications.
 
-### Areas I Am Learning
+### Areas 
 
 - Linux server administration
 - AWS cloud fundamentals
