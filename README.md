@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Olayenikan Michael</h1>
+<h1 align="center">Hi 👋, I'm Olayenikan Michael </h1>
 
-<h3 align="center">Full-Stack Software Engineer | Cloud & DevOps | Frontend Developer | Backend Developer</h3>
+<h3 align="center"> Backend Developer | DevOps & Cloud Engineer </h3>
 
 <p align="center">
-I build scalable, secure, and user-friendly web applications using modern frontend, backend, cloud, and DevOps technologies.
-I enjoy turning product ideas into clean, responsive, production-ready digital experiences with reliable deployment workflows.
+  I build scalable backend systems, secure APIs, and reliable cloud infrastructure using modern backend and DevOps technologies.
+  I enjoy designing robust server-side applications, automating deployments, managing Linux infrastructure, and building production-ready systems.
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@ I enjoy turning product ideas into clean, responsive, production-ready digital e
 </p>
 
 ---
+
 
 ## About Me
 
