@@ -19,19 +19,21 @@
 
 ---
 
-
 ## About Me
 
-I am a Full-Stack Software Engineer focused on building real-world applications with clean architecture, strong UI/UX, secure backend systems, and cloud-ready deployment workflows.
+I'm a Backend Developer focused on building scalable APIs, reliable backend systems, and cloud-ready applications, with a growing specialization in DevOps and cloud infrastructure.
 
-- Full-stack developer with experience across frontend, backend, APIs, dashboards, and SaaS platforms
-- Skilled in building responsive web applications with React, Next.js, TypeScript, and Tailwind CSS
-- Comfortable creating backend systems with Node.js, Express, Python, Django, FastAPI, and databases
-- Exploring DevOps and cloud engineering with a focus on deployment, automation, monitoring, and infrastructure
-- Learning AWS, Linux, Docker, CI/CD, cloud hosting, and production deployment workflows
-- Interested in cybersecurity, AI-powered applications, automation, and scalable product engineering
-- Open to full-stack, frontend, backend, cloud support, DevOps internship, and software engineering opportunities
+- 🔧 Backend: Node.js, TypeScript, Express.js, Python, Django, FastAPI
+- 🗄️ Databases: PostgreSQL, MongoDB, MySQL, Redis
+- ☁️ Cloud: AWS, Azure
+- 🐳 DevOps: Docker, CI/CD, GitHub Actions, Linux, Bash
+- 🌐 Infrastructure: Nginx, DNS, SSH, networking, firewalls
+- 🔐 Security: Authentication, authorization, API security, server hardening
+- 📊 Learning: Terraform, monitoring, observability, system design, distributed systems
+- 💻 Frontend experience: React, Next.js, TypeScript, Tailwind CSS
+- 🚀 Building: Production-style backend, cloud, infrastructure, and DevOps projects
 
+I'm passionate about backend engineering, cloud infrastructure, automation, security, and building reliable systems that can scale.
 ---
 
 ## Tech Stack
